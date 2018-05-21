@@ -87,4 +87,6 @@ in the directory which has manage.py to get your site up and running.
 
 ## Authors
 
+* **[Sahib Khan](https://github.com/sahib-khan)**
+* **[Shivam Kumar](https://github.com/shivamkr143)**
 * **[Kapil Goyal](https://github.com/kapil-goyal)**
